@@ -1,3 +1,5 @@
+# Greetings!
+
 🧑‍💻 Full-stack web developer with 10+ years of experience turning ideas into clean, functional websites.  
 
 🔥 Currently focused on building web apps with React and Next.js, using TypeScript for safety and structure.
@@ -15,9 +17,5 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio Website]([https://your-website.com](https://davidjhanus.me/))
-- 📩 Open to dev work, collaboration, or just talking shop  
-
----
-
-> "Less fluff, more function." – Probably me
+- 🌐 [Portfolio Website](https://davidjhanus.me/)
+- 📩 Open to dev work, collaboration, or just talking shop
