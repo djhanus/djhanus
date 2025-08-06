@@ -1,16 +1,23 @@
-## Hi there 👋
+🧑‍💻 Full-stack web developer with 10+ years of experience turning ideas into clean, functional websites.  
 
-<!--
-**djhanus/djhanus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 Currently focused on building web apps with React and Next.js, using TypeScript for safety and structure.
 
-Here are some ideas to get you started:
+⚙️ Deployed with Vercel, powered by smooth CI/CD pipelines for fast, reliable releases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ I still love the smell of fresh PHP and ACF in the morning—WordPress isn't going anywhere.  
+
+## 🚀 What I Do
+
+- Build fast, responsive sites & landing pages  
+- Integrate APIs, CRMs, and weird plugin setups  
+- Refactor legacy code without breaking the internet  
+- Design scalable systems with a focus on clean, reusable component architecture  
+
+## 📫 Let's Connect
+
+- 🌐 [Portfolio Website]([https://your-website.com](https://davidjhanus.me/))
+- 📩 Open to dev work, collaboration, or just talking shop  
+
+---
+
+> "Less fluff, more function." – Probably me
