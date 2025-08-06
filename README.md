@@ -1,4 +1,4 @@
-# Greetings!
+## Greetings!
 
 🧑‍💻 Full-stack web developer with 10+ years of experience turning ideas into clean, functional websites.  
 
